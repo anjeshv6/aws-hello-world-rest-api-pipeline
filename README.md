@@ -1,1 +1,0 @@
-# aws-hello-world-rest-api-pipeline
